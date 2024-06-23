@@ -1,0 +1,17 @@
+.date {
+    color: gray;
+    background-color: aqua;
+    text-align: center;
+    padding: 5px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.time {
+    color: gray;
+    background-color: aqua;
+    text-align: center;
+    padding: 5px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
